@@ -1,8 +1,8 @@
 <?php
 
-user Carbon\Carbon;
+use Carbon\Carbon;
 use Illuminate\Database\Seeder;
-user Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\DB;
 
 class CategoriesTableSeeder extends Seeder
 {
